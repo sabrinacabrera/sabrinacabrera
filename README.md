@@ -5,10 +5,10 @@
 <h1> Hi 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! I´m Sabrina :)  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"></h1>
 
 <!--- snake -->
-<div align="center">
+<!--- *<div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div>  -->
 
 <!--
 **sabrinacabrera/sabrinacabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
